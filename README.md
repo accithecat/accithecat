@@ -1,12 +1,12 @@
 ## Greetings! 😸
 
+<img alt="Literally me" src="/cute-cat.gif" align="right"/>
+
 #### 👋🐈 Heya! I'm Acci :3 Here's some stuff about me:
 
 - 📚 Studying Software Engineering at Universidad de Colima.
 - 💻 Currently learning Java, HTML, PHP, Python, Coding-related AI usage and how to use Linux Arch.
 - 📓 Recent/Actual proyect: **Lumina**: University-themed academic website.
-
-<img alt="Literally me" src="https://tenor.com/view/cat-cute-exercise-bed-kitty-gif-17932354043745241231" align="right"/>
 
 #### 🛠 Tech Stack:
 
