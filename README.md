@@ -6,7 +6,7 @@
 
 - 📚 Studying Software Engineering at Universidad de Colima.
 - 💻 Currently learning Java, HTML, PHP, Python, Coding-related AI usage and how to use Linux Arch.
-- 📓 Recent/Actual proyect: **Lumina**: University-themed academic website.
+- 📓 Recent/Actual proyect: **[Lumina](https://github.com/diegoa-mg/Lumina)**: University-themed academic website.
 
 #### 🛠 Tech Stack:
 
