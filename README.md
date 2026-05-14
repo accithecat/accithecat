@@ -19,4 +19,4 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 
-💬 Want to reach me? Message me on [Discord](https://discord.com/users/889587632907092078) or [Telegram](https://t.me/accithecat)! (I'm way more active on Telegram)
+💬 Want to reach me? Message me on **[Discord](https://discord.com/users/889587632907092078)** or **[Telegram](https://t.me/accithecat)**! (I'm way more active on Telegram)
