@@ -5,7 +5,7 @@
 #### 👋🐈 Heya! I'm Acci :3 Here's some stuff about me:
 
 - 📚 Studying Software Engineering at Universidad de Colima.
-- 💻 Currently learning Java, HTML, PHP, Python, Coding-related AI usage and how to use Linux Arch.
+- 💻 Currently learning Java, HTML, PHP, Python, Coding-related AI usage.
 - 📓 Recent/Actual proyect: **[Lumina](https://github.com/diegoa-mg/Lumina)**: University-themed academic website.
 
 #### 🛠 Tech Stack:
